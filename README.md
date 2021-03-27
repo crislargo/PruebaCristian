@@ -23,3 +23,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 
 Archivo de sql, se encuentra en la carpera database
+Para ejecutar el proyecto con el comando php artisan serve
+
+Recomendaciones para Laravel si es necesario instalar
+https://laravel.com/docs/8.x/installation
