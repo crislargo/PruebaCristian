@@ -32,7 +32,7 @@
             <thead>
             <tr>
                 <th><i class="fas fa-user"></i> Nombre</th>
-                <th><i class="fas fa-at"></i> Email </th>
+                <th><i class="fas fa-at"></i> Email cri</th>
                 <th><i class="fas fa-venus-mars"></i> Sexo</th>
                 <th><i class="fas fa-briefcase"></i> Área</th>
                 <th><i class="fas fa-envelope"></i> Boletín</th>
